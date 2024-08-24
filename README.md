@@ -5,5 +5,5 @@ To which I humbly replied, <b>“While my modest code may not yet be ready for t
 # Want to see my work?
 ➡️ &nbsp; https://my-portfolio-website-zeta-two.vercel.app/<br>
 <br>
-This website was last updated on 2024-08-25 05:05:56 KST.
+This website was last updated on 2024-08-25 05:05:56 KST.<br>
 (I’m keeping it fresh with GitHub Actions!)
