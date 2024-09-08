@@ -8,4 +8,4 @@ To which I humbly replied, <b>“While my modest code may not yet be ready for t
 This website was last updated on 2024-09-07 07:52:03 KST.<br>
 (I’m keeping it fresh with GitHub Actions!)⚡️<br>
 <br>
-개발일지: https://jaeeun-s-tech-diary.netlify.app<br>
+개발 일지: https://jaeeun-s-tech-diary.netlify.app<br>
